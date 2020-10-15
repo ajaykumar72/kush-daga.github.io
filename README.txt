@@ -16,6 +16,6 @@ Also I am facing a bug in this webpage i created, the bug us that when i open th
 ( modal is the contact me button).
 
 Thanks
-Moksh Mahajan
+
 
 PS: Sorry for the typos.
